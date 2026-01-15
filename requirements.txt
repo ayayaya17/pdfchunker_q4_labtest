@@ -4,4 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 numpy
-PdfReader
+streamlit
+PyPDF2
+nltk
